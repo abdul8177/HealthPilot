@@ -2,7 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.chainlit/
+chainlit.md
+.vscode/
+.files/
 # C extensions
 *.so
 
